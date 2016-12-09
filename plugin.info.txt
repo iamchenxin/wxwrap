@@ -1,0 +1,7 @@
+base    wxwrap
+author  iamchenxin
+email   iamchenxin@gmail.com
+date    2016-12-09
+name    wxwrap
+desc    Some syntax for wechat server
+url     http://dokuwiki.org/plugin:wxwrap
